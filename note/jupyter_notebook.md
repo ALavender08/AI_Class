@@ -18,4 +18,4 @@
 - jupyter notebook
 
 ## 使用 Jupyter Notebook 網頁:
-- 之後放
+- [戳我](https://youtu.be/TZ81gjLyYKg)https://youtu.be/TZ81gjLyYKg)
