@@ -15,7 +15,7 @@
 
 ## 開啟 Jupyter Notebook
 
-**在終端機輸入:**
+**在終端機直接輸入:**
 - jupyter notebook
 
 ## 使用 Jupyter Notebook 網頁:
