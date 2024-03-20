@@ -16,3 +16,6 @@
 
 在終端機輸入:
 - jupyter notebook
+
+## 使用 Jupyter Notebook 網頁:
+- 之後放
