@@ -19,7 +19,7 @@
 - jupyter notebook
 
 ## 使用 Jupyter Notebook 網頁:
-- [戳我](https://youtu.be/TZ81gjLyYKg)
+- [在 Jupyter Notebook 中開啟新的 Notebook](https://youtu.be/TZ81gjLyYKg)
 
 
 >[!IMPORTANT]
