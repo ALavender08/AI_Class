@@ -1,4 +1,5 @@
 # 關於 Jupyter Notebook 的使用方法
+> 不定期更新，有什麼問題我在補上
 ## 下載各種套件:
 <b> 到終端機輸入以下程式: </b>
 - pip3 install torch torchvision
