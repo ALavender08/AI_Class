@@ -1,5 +1,5 @@
 # 關於 Jupyter Notebook 的使用方法
-> 不定期更新，有什麼問題我在補上
+> 不定期更新，有什麼問題我在補上  
 > 影片的播放清單　>>　[戳這裡](https://www.youtube.com/playlist?list=PL0-uiq-OFO1ys5PpUKkppPlFdBUOwtQO6)
 
 > [!NOTE]
