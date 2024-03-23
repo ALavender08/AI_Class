@@ -1,7 +1,7 @@
 # 關於 Jupyter Notebook 的使用方法
 > 不定期更新，有什麼問題我在補上
 ## 下載各種套件:
-<b> 到終端機輸入以下程式: </b>
+<b> 到終端機 (Win+R -> 輸入cmd) 輸入以下程式: </b>
 - pip3 install torch torchvision
 - pip install matplotlib
 - pip install numpy
@@ -19,7 +19,7 @@
 **在終端機直接輸入:**
 - jupyter notebook
 
-## 使用 Jupyter Notebook 網頁:
+## 使用 Jupyter Notebook 網頁示範影片:
 - [在 Jupyter Notebook 中開啟新的 Notebook](https://youtu.be/TZ81gjLyYKg)
 
 
