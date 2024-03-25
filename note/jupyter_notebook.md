@@ -33,7 +33,7 @@
 - [Jupyter Notebook 的介面使用](https://www.youtube.com/watch?v=dQw4w9WgXcQ)　*之後放連結，還沒做好，先別點*
 
 
-> [!IMPORTANT]
+#> [!IMPORTANT]
 > - **原本在 colab 的程式是有與雲端資料夾連動，那部分的程式要改**  
 >   **我的作法是 : 將整個 cifar-10 資料夾+字型的資料夾下載到電腦，folder那邊的程式改成我下載到電腦的位置，就可以跑程式了 :+1:**  
 >   要下載的資料夾如果不知道在哪　>>　[戳這裡](https://www.youtube.com/watch?v=dQw4w9WgXcQ)　*之後放連結還沒傳影片 :sweat_smile:*  
