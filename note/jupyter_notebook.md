@@ -1,5 +1,5 @@
 # 關於 Jupyter Notebook 的使用方法
-> 不定期更新，有什麼問題我在補上  
+> 不定期更新，有什麼問題問我，我之後在補上細節  
 > 影片的播放清單　>>　[戳這裡](https://www.youtube.com/playlist?list=PL0-uiq-OFO1ys5PpUKkppPlFdBUOwtQO6)
 
 
@@ -27,6 +27,7 @@
 - [在 Jupyter Notebook 中開啟新的 Notebook](https://youtu.be/TZ81gjLyYKg)  
 - [直接從 Jupyter Notebook 執行已下載的檔案](https://youtu.be/x0rgQY7Qvyk)  
 - [Notebook 中的基本操作使用說明](https://youtu.be/E_7NEvCanpI)
+- [如何擷取程式成pdf檔(繳交作業的格式)](https://www.youtube.com/watch?v=q6EoRBvdVPQ) *還沒好，之後補*
 
 
 > [!IMPORTANT]
