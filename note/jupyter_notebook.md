@@ -27,7 +27,7 @@
 - [在 Jupyter Notebook 中開啟新的 Notebook](https://youtu.be/TZ81gjLyYKg)  
 - [直接從 Jupyter Notebook 執行已下載的檔案](https://youtu.be/x0rgQY7Qvyk)  
 - [Notebook 中的基本操作使用說明](https://youtu.be/E_7NEvCanpI)
-- [如何擷取程式成pdf檔(繳交作業的格式)](https://www.youtube.com/watch?v=q6EoRBvdVPQ) *還沒好，之後補*
+- [如何擷取程式成 PDF 檔 (作業繳交格式)](https://youtu.be/lc8GR-Cc_SY) 
 
 
 > [!IMPORTANT]
